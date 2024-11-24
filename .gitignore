@@ -1,0 +1,5 @@
+*build
+*.vscode
+test_data
+.nfs00000000eafd5d6b00000d3e
+archive
